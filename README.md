@@ -1,0 +1,1 @@
+# Akbank-GlobalAIHub-Bootcamp-Python-Notes
